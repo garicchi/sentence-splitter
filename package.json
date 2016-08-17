@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "sentence-splitter:toggle"
   },
-  "repository": "https://github.com/atom/sentence-splitter",
+  "repository": "https://github.com/garicchi/sentence-splitter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
