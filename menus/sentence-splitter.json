@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sentence-splitter",
+        "command": "sentence-splitter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sentence-splitter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sentence-splitter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
